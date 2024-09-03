@@ -1,0 +1,2 @@
+- name: radar-action
+  uses: Auditware/radar-action@0.1.1
